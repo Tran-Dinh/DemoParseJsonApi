@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoParseJson</string>
+
+    // x-api-key
+    <string name="x_api_key">57106af7695c063624e57449a15d7ff9</string>
+
+
+</resources>
